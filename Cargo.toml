@@ -2,7 +2,7 @@
 name = "imgopt"
 version = "0.0.1"
 edition = "2021"
-authors = ["ClaimHawk"]
+authors = ["Michael O'Neal"]
 description = "Terminal-based image optimizer for Claude Code - resize images before pasting to save context"
 repository = "https://github.com/claimhawk/imgopt-rs"
 license = "MIT"
