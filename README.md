@@ -18,8 +18,8 @@ Large images in Claude Code can quickly consume your context window. This tool a
 ### From source
 
 ```bash
-git clone https://github.com/claimhawk/imgopt-rs.git
-cd imgopt-rs
+git clone https://github.com/claimhawk/claude-image-optimizer.git
+cd claude-image-optimizer
 cargo build --release
 cp target/release/imgopt /usr/local/bin/imgopt
 ```
@@ -27,7 +27,7 @@ cp target/release/imgopt /usr/local/bin/imgopt
 ### Using cargo
 
 ```bash
-cargo install --git https://github.com/claimhawk/imgopt-rs
+cargo install --git https://github.com/claimhawk/claude-image-optimizer
 ```
 
 ## Usage
