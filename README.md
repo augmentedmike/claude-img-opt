@@ -1,6 +1,8 @@
 # imgopt - Image Optimizer for Claude Code
 
-A fast terminal-based image optimizer that helps you prepare images for pasting into Claude Code. These images are tokens, and your context can only take so much. This will reduce your screenshots to less than 720p and if the  images are smaller, it wont affect them. I got tired of my context getting obliterated by the loop of screenshot -> suggest fix -> test fix -> screenshot -> loop.
+A fast terminal-based image optimizer built in Rust. It helps you prepare images for pasting into Claude Code.
+
+These images are tokens, and your context can only take so much. This will reduce your screenshots to less than 720p and if the  images are smaller, it wont affect them. I got tired of my context getting obliterated by the loop of screenshot -> suggest fix -> test fix -> screenshot -> loop.
 
 ## What it does
 
